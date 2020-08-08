@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">લવ કેલ્ક્યુલેટર</string>
+    <string name="female">સ્ત્રી</string>
+    <string name="male">હા</string>
+    <string name="enter_dominated_person">પ્રબળ વ્યક્તિ દાખલ કરો</string>
+    <string name="enter_weakest_person">નબળા વ્યક્તિ દાખલ કરો</string>
+    <string name="result">પરિણામ</string>
+    <string name="calculate">ગણત્રી</string>
+    <string name="enter_names">નામ દાખલ કરો</string>
+    <string name="try_again">ફરીથી પ્રયત્ન કરો</string>
+</resources>

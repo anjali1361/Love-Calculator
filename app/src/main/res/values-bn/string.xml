@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">প্রেমের ক্যালকুলেটর</string>
+    <string name="female">মহিলা</string>
+    <string name="male">পুরুষ</string>
+    <string name="enter_dominated_person">প্রভাবিত ব্যক্তি প্রবেশ করুন</string>
+    <string name="enter_weakest_person">উইকস্ট পার্সন প্রবেশ করান</string>
+    <string name="result">ফলাফল</string>
+    <string name="calculate">ক্যালকুলেট</string>
+    <string name="enter_names">নাম লিখুন</string>
+    <string name="try_again">আবার চেষ্টা কর</string>
+</resources>

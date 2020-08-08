@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="female">FEMALE</string>
+    <string name="male">MALE</string>
+    <string name="enter_dominated_person">enter dominated person</string>
+    <string name="enter_weakest_person">enter weakest person</string>
+    <string name="result">result</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_names">ENTER NAMES</string>
+    <string name="try_again">Try Again</string>
+</resources>

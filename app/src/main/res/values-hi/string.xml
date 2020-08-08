@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्यार का कैलकुलेटर</string>
+    <string name="female">महिला</string>
+    <string name="male">नर</string>
+    <string name="enter_dominated_person">प्रभुत्व व्यक्ति को दर्ज करें</string>
+    <string name="enter_weakest_person">सबसे कमजोर व्यक्ति दर्ज करें</string>
+    <string name="result">परिणाम</string>
+    <string name="calculate">कैलकुलेट</string>
+    <string name="enter_names">नाम दर्ज करें</string>
+    <string name="try_again">पुनः प्रयास करें</string>
+</resources>

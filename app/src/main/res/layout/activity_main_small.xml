@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            layout="@layout/toolbar"/>
+
+    <EditText
+        android:id="@+id/etmale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="76dp"
+        android:background="#9c27b0"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:layout_marginRight="20dp"
+        android:hint="@string/enter_dominated_person"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textSize="17sp" />
+
+    <EditText
+        android:id="@+id/etfemale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etmale"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textStyle="bold"
+        android:background="#ffc107"
+        android:hint="@string/enter_weakest_person"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etfemale"
+        android:layout_centerInParent="true"
+        android:background="@drawable/heart"
+        android:fontFamily="@font/aclonica"
+        android:padding="100dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btncaculator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/result"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="38dp"
+        android:layout_marginBottom="40dp"
+        android:background="#ff6948"
+        android:fontFamily="@font/almendra_bold_italic"
+        android:padding="25dp"
+        android:text="@string/calculate"
+        android:textSize="25sp" />
+
+    </RelativeLayout>
+
+
+</ScrollView>

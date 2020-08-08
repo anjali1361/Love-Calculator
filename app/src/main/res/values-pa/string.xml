@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਲਵ ਕੈਲਕੁਲੇਟਰ</string>
+    <string name="female">ਰਤ</string>
+    <string name="male">ਜੀ</string>
+    <string name="enter_dominated_person">ਦਾਇਮੀ ਵਿਅਕਤੀ ਦਰਜ ਕਰੋ</string>
+    <string name="enter_weakest_person">ਖੁੱਦ ਵਿਅਕਤੀ ਦਾਖਲ ਕਰੋ</string>
+    <string name="result">ਨਤੀਜਾ</string>
+    <string name="calculate">ਗਣਨਾ ਕਰੋ</string>
+    <string name="enter_names">ਨਾਮ ਦਰਜ ਕਰੋ</string>
+    <string name="try_again">ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+</resources>

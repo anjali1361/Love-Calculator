@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محبت کیلکولیٹر</string>
+    <string name="female">عورت</string>
+    <string name="male">ہاں</string>
+    <string name="enter_dominated_person">دبنگ شخص داخل کریں</string>
+    <string name="enter_weakest_person">ہفتہ پرسن درج کریں</string>
+    <string name="result">نتیجہ</string>
+    <string name="calculate">حساب لگائیں</string>
+    <string name="enter_names">نام درج کریں</string>
+    <string name="try_again">دوبارہ کوشش کریں</string>
+</resources>
