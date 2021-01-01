@@ -1,2 +1,2 @@
 # Love-calculator
-just test your love
+Just test your love
